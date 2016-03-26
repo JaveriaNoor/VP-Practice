@@ -1,0 +1,6 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\PermutationExample\PermutationExample\bin\Debug\PermutationExample.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\PermutationExample\PermutationExample\bin\Debug\PermutationExample.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\PermutationExample\PermutationExample\bin\Debug\PermutationExample.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\PermutationExample\PermutationExample\obj\Debug\PermutationExample.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\PermutationExample\PermutationExample\obj\Debug\PermutationExample.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\PermutationExample\PermutationExample\obj\Debug\PermutationExample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\numerPalindrome\numerPalindrome\bin\Debug\numerPalindrome.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\numerPalindrome\numerPalindrome\bin\Debug\numerPalindrome.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\numerPalindrome\numerPalindrome\bin\Debug\numerPalindrome.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\numerPalindrome\numerPalindrome\obj\Debug\numerPalindrome.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\numerPalindrome\numerPalindrome\obj\Debug\numerPalindrome.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\numerPalindrome\numerPalindrome\obj\Debug\numerPalindrome.csprojResolveAssemblyReference.cache
