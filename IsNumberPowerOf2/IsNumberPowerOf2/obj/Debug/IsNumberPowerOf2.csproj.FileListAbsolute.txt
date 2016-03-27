@@ -1,0 +1,6 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\IsNumberPowerOf2\IsNumberPowerOf2\bin\Debug\IsNumberPowerOf2.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\IsNumberPowerOf2\IsNumberPowerOf2\bin\Debug\IsNumberPowerOf2.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\IsNumberPowerOf2\IsNumberPowerOf2\bin\Debug\IsNumberPowerOf2.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\IsNumberPowerOf2\IsNumberPowerOf2\obj\Debug\IsNumberPowerOf2.csprojResolveAssemblyReference.cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\IsNumberPowerOf2\IsNumberPowerOf2\obj\Debug\IsNumberPowerOf2.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\IsNumberPowerOf2\IsNumberPowerOf2\obj\Debug\IsNumberPowerOf2.pdb
