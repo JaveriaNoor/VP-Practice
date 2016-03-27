@@ -1,0 +1,5 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\storIntoArray\storIntoArray\bin\Debug\storIntoArray.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\storIntoArray\storIntoArray\bin\Debug\storIntoArray.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\storIntoArray\storIntoArray\bin\Debug\storIntoArray.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\storIntoArray\storIntoArray\obj\Debug\storIntoArray.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\storIntoArray\storIntoArray\obj\Debug\storIntoArray.pdb
