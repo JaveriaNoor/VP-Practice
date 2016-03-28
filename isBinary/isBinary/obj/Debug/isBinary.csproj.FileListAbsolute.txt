@@ -1,0 +1,6 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\isBinary\isBinary\bin\Debug\isBinary.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\isBinary\isBinary\bin\Debug\isBinary.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\isBinary\isBinary\bin\Debug\isBinary.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\isBinary\isBinary\obj\Debug\isBinary.csprojResolveAssemblyReference.cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\isBinary\isBinary\obj\Debug\isBinary.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\isBinary\isBinary\obj\Debug\isBinary.pdb
