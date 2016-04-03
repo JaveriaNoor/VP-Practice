@@ -1,0 +1,6 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\BuubleSort\BuubleSort\bin\Debug\BuubleSort.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\BuubleSort\BuubleSort\bin\Debug\BuubleSort.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\BuubleSort\BuubleSort\bin\Debug\BuubleSort.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\BuubleSort\BuubleSort\obj\Debug\BuubleSort.csprojResolveAssemblyReference.cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\BuubleSort\BuubleSort\obj\Debug\BuubleSort.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\BuubleSort\BuubleSort\obj\Debug\BuubleSort.pdb
