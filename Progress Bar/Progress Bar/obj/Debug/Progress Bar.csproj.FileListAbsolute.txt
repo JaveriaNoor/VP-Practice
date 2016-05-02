@@ -1,0 +1,9 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\Progress Bar\Progress Bar\bin\Debug\Progress Bar.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\Progress Bar\Progress Bar\bin\Debug\Progress Bar.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\Progress Bar\Progress Bar\bin\Debug\Progress Bar.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\Progress Bar\Progress Bar\obj\Debug\Progress Bar.csprojResolveAssemblyReference.cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\Progress Bar\Progress Bar\obj\Debug\Progress_Bar.Form1.resources
+c:\users\javeria noor\documents\visual studio 2012\Projects\Progress Bar\Progress Bar\obj\Debug\Progress_Bar.Properties.Resources.resources
+c:\users\javeria noor\documents\visual studio 2012\Projects\Progress Bar\Progress Bar\obj\Debug\Progress Bar.csproj.GenerateResource.Cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\Progress Bar\Progress Bar\obj\Debug\Progress Bar.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\Progress Bar\Progress Bar\obj\Debug\Progress Bar.pdb
